@@ -1,0 +1,1 @@
+Esto ocurre porque a diferencia de otros leguajes de programación orientada a objetos en JavaScript la palabra reservada this en este caso es unidefined porque no depende del objeto sino que depende del Scope y del contexto de ejecución, por lo que puede ir teniendo diferentes valores a lo largo de la ejecución.
